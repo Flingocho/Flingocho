@@ -1,7 +1,11 @@
 <!-- filepath: /home/calcifer/Escritorio/README.md -->
-# 👋 Yeah, it\'s Flingocho (jvidal-t) <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25px">
+<div align=center>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNteGYyMnpseGtmeW4xaWU4a2JteDVqcmk2NGFrNTN4cXA3bzFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wo0Yw7qwzgQak/giphy.gif" width="500px">
+  
+## 👋 Yeah, it\'s Flingocho
+</div>
 
-## 🚀 About Me (Or Whatever)
+## 🚀 About Me (blah, blah, blah...)
 
 Currently a **Software Development Student** at the illustrious [**42 Madrid**](https://www.42madrid.com/). My thrilling coding escapade started in June 2024 with the "Piscine" (think trial by fire, but with more C code), and I officially subjected myself to the Cursus in September 2024.
 
