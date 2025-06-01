@@ -71,7 +71,8 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 <summary>💡 My Own Projects</summary>
 
 - [freeze_stalker](https://github.com/Flingocho/freeze_stalker) - Hardcoded whatsapp "scrapping" bot.
-- [audio_pill_injection](https://github.com/Flingocho/audio_pill_injection) - PoC infecting audio for leak tracking
+- [audio_pill_injection](https://github.com/Flingocho/audio_pill_injection) - PoC infecting audio for leak tracking.
+- [noname_project](https://github.com/Flingocho/noname_project) - Scripts for a future-to-be-developed-if-dont-die cool game. 
 
 </details>
 
