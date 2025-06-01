@@ -1,18 +1,67 @@
-### Hi there 👋
+<!-- filepath: /home/calcifer/Escritorio/README.md -->
+# 👋 Yeah, it\'s Flingocho (jvidal-t) <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25px">
 
-### New over here, cut me some slack :)
+## 🚀 About Me (Or Whatever)
 
-<!--
-**Flingocho/Flingocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a **Software Development Student** at the illustrious [**42 Madrid**](https://www.42madrid.com/). My thrilling coding escapade started in June 2024 with the "Piscine" (think trial by fire, but with more C code), and I officially subjected myself to the Cursus in September 2024.
 
-Here are some ideas to get you started:
+These past few months have been... an experience. Mostly involving staring at a screen, questioning my life choices, and occasionally producing something resembling functional code. The goal is supposedly "elegant, high-performance code" and "thrilling projects." We'll see how that goes. 🙄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I document this questionable journey on [**GitHub**](https://github.com/Flingocho). If you stumble upon my code and have actual, constructive advice (or just want to point and laugh), feel free. 🤷‍♂️
+
+## 🏆 My Projects Portfolio
+
+<details>
+<summary>📚 Cursus 42 Common Core</summary>
+
+<details>
+<summary>🎯 Milestone 0️⃣</summary>
+
+- [`libft`](https://github.com/Flingocho/libft) - My foundational C library.
+</details>
+
+<details>
+<summary>🎯 Milestone 1️⃣</summary>
+
+- [`ft_printf`](https://github.com/Flingocho/ft_printf) - A custom implementation of the C `printf` function.
+- [`get_next_line (gnl)`](https://github.com/Flingocho/get_next_line) - Reading lines from file descriptors.
+</details>
+
+<details>
+<summary>🎯 Milestone 2️⃣</summary>
+
+- [`so_long`](https://github.com/Flingocho/so_long) - A simple 2D game. 🎮
+- [`minitalk`](https://github.com/Flingocho/minitalk) - A client-server communication program using signals.
+</details>
+
+<details>
+<summary>🎯 Milestone 3️⃣</summary>
+
+- [`minishell`](https://github.com/Flingocho/minishell) - Crafting my own shell. 🐚
+- [`philosophers`](https://github.com/Flingocho/philosophers) - The Dining Philosophers problem. 🤔
+</details>
+
+<details>
+<summary>🎯 Milestone 4️⃣</summary>
+
+- [`cub3d`](https://github.com/Flingocho/cub3d) - A Wolfenstein 3D-like game using raycasting. 🐺
+</details>
+
+<details>
+<summary>🎯 Milestone 5️⃣</summary>
+
+- [`ft_irc`](https://github.com/nisp3ro/ft_irc) - Building an Internet Relay Chat server. 💬
+</details>
+
+</details>
+
+<details>
+<summary>💡 My Own Projects</summary>
+
+- [freeze_stalker](https://github.com/Flingocho/freeze_stalker) - Hardcoded whatsapp "scrapping" bot.
+
+</details>
+
+---
+
+Feel free to navigate through the labyrinth of my repositories – a testament to the pain and suffering that is learning to code. You might even find something that works. Or not. Good luck. 🍀
