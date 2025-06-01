@@ -18,46 +18,46 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 <details>
 <summary>📚 Cursus 42 Common Core</summary>
 
-<details>
+<details open>
 <summary>🎯 Milestone 0️⃣</summary>
 
 - [`libft`](https://github.com/Flingocho/libft) - My foundational C library.
-</details>
+</details open>
 
-<details>
+<details open>
 <summary>🎯 Milestone 1️⃣</summary>
 
 - [`ft_printf`](https://github.com/Flingocho/ft_printf) - A custom implementation of the C `printf` function.
 - [`get_next_line (gnl)`](https://github.com/Flingocho/get_next_line) - Reading lines from file descriptors.
 </details>
 
-<details>
+<details open>
 <summary>🎯 Milestone 2️⃣</summary>
 
 - [`so_long`](https://github.com/Flingocho/so_long) - A simple 2D game. 🎮
 - [`minitalk`](https://github.com/Flingocho/minitalk) - A client-server communication program using signals.
 </details>
 
-<details>
+<details open>
 <summary>🎯 Milestone 3️⃣</summary>
 
 - [`minishell`](https://github.com/Flingocho/minishell) - Crafting my own shell. 🐚
 - [`philosophers`](https://github.com/Flingocho/philosophers) - The Dining Philosophers problem. 🤔
 </details>
 
-<details>
+<details open>
 <summary>🎯 Milestone 4️⃣</summary>
 
 - [`cub3d`](https://github.com/Flingocho/cub3d) - A Wolfenstein 3D-like game using raycasting. 🐺
 </details>
 
-<details>
+<details open>
 <summary>🎯 Milestone 5️⃣</summary>
 
 - [`ft_irc`](https://github.com/nisp3ro/ft_irc) - Building an Internet Relay Chat server. 💬
 </details>
 
-<details>
+<details open>
 <summary>🎯 Milestone 6️⃣</summary>
 
 - [`ft_transcendence`](https://github.com/jainavas/transcendence) - full stack web browser game project. 👩‍💻
@@ -67,7 +67,9 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 
 </details>
 
-<details>
+
+
+<details open>
 <summary>💡 My Own Projects</summary>
 
 - [freeze_stalker](https://github.com/Flingocho/freeze_stalker) - Hardcoded whatsapp "scrapping" bot.
