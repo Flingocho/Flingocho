@@ -57,6 +57,14 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 - [`ft_irc`](https://github.com/nisp3ro/ft_irc) - Building an Internet Relay Chat server. 💬
 </details>
 
+<details>
+<summary>🎯 Milestone 6️⃣</summary>
+
+- [`ft_transcendence`](https://github.com/jainavas/transcendence) - full stack web browser game project. 👩‍💻
+</details>
+
+</details>
+
 </details>
 
 <details>
@@ -70,3 +78,8 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 ---
 
 Feel free to navigate through the labyrinth of my repositories – a testament to the pain and suffering that is learning to code. You might even find something that works. Or not. Good luck. 🍀
+
+<div align="center">
+  Created with ❤️ by <a href="https://github.com/Flingocho">Flingocho</a>
+</div>
+
