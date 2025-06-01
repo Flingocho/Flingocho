@@ -11,7 +11,7 @@ Currently a **Software Development Student** at the illustrious [**42 Madrid**](
 
 These past few months have been... an experience. Mostly involving staring at a screen, questioning my life choices, and occasionally producing something resembling functional code. The goal is supposedly "elegant, high-performance code" and "thrilling projects." We'll see how that goes. 🙄
 
-I document this questionable journey on [**GitHub**](https://github.com/Flingocho). If you stumble upon my code and have actual, constructive advice (or just want to point and laugh), feel free. 🤷‍♂️
+I document this questionable journey on GitHub. If you stumble upon my code and have actual, constructive advice (or just want to point and laugh), feel free. 🤷‍♂️
 
 ## 🏆 My Projects Portfolio
 
