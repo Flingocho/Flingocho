@@ -80,7 +80,7 @@ I document this questionable journey on [**GitHub**](https://github.com/Flingoch
 ## 📫 How to Reach Me (If you dare)
 
 - **Email:** [jaimevidalt.24@gmail.com](jaimevidalt.24@gmail.com) (I might even reply)
-- **LinkedIn:** [link](linkedin.com/in/jaime-vidal-tejada-7560b52a6) (For that professional stalking)
+- **LinkedIn:** [link](https://linkedin.com/in/jaime-vidal-tejada-7560b52a6) (For that professional stalking)
 - **GitHub Issues:** For any "constructive" feedback on my projects, feel free to open an issue.
 
 Feel free to navigate through the labyrinth of my repositories – a testament to the pain and suffering that is learning to code. You might even find something that works. Or not. Good luck. 🍀
