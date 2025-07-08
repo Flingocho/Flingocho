@@ -54,13 +54,13 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 <details open>
 <summary>🎯 Milestone 5️⃣</summary>
 
-- [`ft_irc`](https://github.com/nisp3ro/ft_irc) - Building an Internet Relay Chat server. 💬
+- [`ft_irc`](https://github.com/Flingocho/ft_irc) - Building an Internet Relay Chat server. 💬
 </details>
 
 <details open>
 <summary>🎯 Milestone 6️⃣</summary>
 
-- [`ft_transcendence`](https://github.com/jainavas/transcendence) - full stack web browser game project. 👩‍💻
+- [`ft_transcendence`](https://github.com/Flingocho/transcendence) - full stack web browser game project. 👩‍💻
 </details>
 </details>
 </details>
