@@ -62,15 +62,16 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 
 - [`ft_transcendence`](https://github.com/jainavas/transcendence) - full stack web browser game project. 👩‍💻
 </details>
-
 </details>
-
 </details>
 
 <details open>
-<summary>Outer Core Projects</summary>
+
+<summary>📚 42 School Outer Core Projects</summary>
 
 - [Libasm](http://github.com/Flingocho/libasm) - Assembly low level implementation of some libc functions.
+
+- [Lem-in](https://github.com/Flingocho/lem-in) - Graphs theory -  Breadth First Search implementation + node visualizer.
 
 </details>
 
@@ -78,7 +79,9 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 <summary>💡 My Own Projects</summary>
 
 - [freeze_stalker](https://github.com/Flingocho/freeze_stalker) - Hardcoded whatsapp "scrapping" bot.
+
 - [audio_pill_injection](https://github.com/Flingocho/audio_pill_injection) - PoC infecting audio for leak tracking.
+
 - [noname_project](https://github.com/Flingocho/noname_project) - Scripts for a future-to-be-developed-if-dont-die cool game. 
 
 </details>
