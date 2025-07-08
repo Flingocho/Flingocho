@@ -67,7 +67,12 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 
 </details>
 
+<details open>
+<summary>Outer Core Projects</summary>
 
+- [Libasm](http://github.com/Flingocho/libasm) - Assembly low level implementation of some libc functions.
+
+</details>
 
 <details open>
 <summary>💡 My Own Projects</summary>
