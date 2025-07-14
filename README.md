@@ -73,6 +73,8 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 
 - [Lem-in](https://github.com/Flingocho/lem-in) - Graphs theory -  Breadth First Search implementation + node visualizer.
 
+- [ft_linear_regression](https://github.com/Flingocho/ft_linear_regression) - Algo / car prices estimations based on trained model (mileage and price).
+
 </details>
 
 <details open>
