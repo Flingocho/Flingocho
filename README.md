@@ -19,7 +19,6 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 <details open>
 <summary>🧠 Highlight Project — Gomoku AI</summary>
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Flingocho/gomoku/main/imgs/main_menu.png" width="350px">
   <img src="https://raw.githubusercontent.com/Flingocho/gomoku/main/imgs/game.png" width="350px">
@@ -38,6 +37,30 @@ I document this questionable journey on GitHub. If you stumble upon my code and 
 - **148 unit tests** covering both implementations and verifying C++/Rust parity
 
 Built with [jainavas](https://github.com/jainavas). `C++ · Rust · SFML`
+
+</details>
+
+---
+
+<details open>
+<summary>🐜 Highlight Project — Lem-in (Ant Colony Pathfinding)</summary>
+
+<div align="center">
+  <img src="https://github.com/Flingocho/lem-in/raw/master/images/intricate.png" width="350px">
+  <img src="https://github.com/Flingocho/lem-in/raw/master/images/visualizer.png" width="350px">
+</div>
+
+[`lem-in`](https://github.com/Flingocho/lem-in) — Pure graph theory: route a colony of ants through a network of rooms and tunnels from start to end in the **minimum number of moves**. No shortest-path-for-one-ant nonsense — this is multi-path flow optimization.
+
+**What's under the hood:**
+- **Multi-path BFS** to discover every viable route from start room to end room
+- **Greedy flow distribution**: assigns ants across discovered paths to minimize total completion time, not just path length
+- **Collision-aware simulation**: step-by-step movement with room-occupancy checks, so no two ants ever overlap
+- Robust graph parsing with duplicate-room and invalid-connection detection
+- **Python visualizer** (matplotlib) with anti-overlap line rendering for untangling dense, intricate maps
+- Scales to 1000+ rooms / 3000+ connections in benchmarks, still resolving in milliseconds
+
+Built with [jainavas](https://github.com/jainavas). `C · Python · BFS · Graph Theory`
 
 </details>
 
@@ -109,9 +132,11 @@ Built with [jainavas](https://github.com/jainavas). `C++ · Rust · SFML`
 
 - [`libasm`](https://github.com/Flingocho/libasm) — Low-level Assembly reimplementation of standard libc functions, with loop unrolling, memory alignment tricks, and hand-optimized x86-64. Actually kind of fun.
 
-- [`lem-in`](https://github.com/Flingocho/lem-in) — Graph theory in anger: BFS-based pathfinding for an ant colony simulation. Finding optimal non-colliding paths through a network of rooms, plus a node visualizer to watch the ants crawl. Proper algorithmia. 🐜
-
 - [`jvidal-t-IoT`](https://github.com/Flingocho/jvidal-t-IoT) — **Inception of Things**: full GitOps/DevOps pipeline from scratch. Vagrant-provisioned VMs running K3s clusters, Ingress routing, K3d for Docker-based orchestration, and Argo CD for continuous deployment — syncing app state from a Git repo to the cluster automatically. The kind of thing people get paid to set up. `Kubernetes · Vagrant · Docker · ArgoCD`
+
+- [`learn2slither`](https://github.com/Flingocho/learn2slither) — Reinforcement learning, the hard way: a snake agent learns to survive and eat using a **Q-table** (no neural net shortcuts here). State representation, reward shaping, exploration vs. exploitation, the whole RL starter pack. `Python · Q-Learning · Reinforcement Learning`
+
+- [`Leaffliction`](https://github.com/Flingocho/Leaffliction) — Computer vision pipeline for **plant disease recognition** from leaf images: dataset analysis, augmentation, and image transformation/feature extraction to classify healthy vs. diseased leaves. `Python · Computer Vision · Image Processing`
 
 </details>
 
